@@ -1,5 +1,0 @@
-Physical Therapy
-100.00
-2.00
-true
-0.50
